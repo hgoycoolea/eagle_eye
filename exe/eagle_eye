@@ -1,0 +1,18 @@
+#!/usr/bin/env ruby
+
+require 'eagle_eye'
+
+    pp "
+
+_____ ____  _____ _     _____   ________  _ _____
+/  __//  _ \/  __// \   /  __/  /  __/\  \///  __/
+|  \  | / \|| |  _| |   |  \    |  \   \  / |  \
+|  /_ | |-||| |_//| |_/\|  /_   |  /_  / /  |  /_
+\____\\_/ \|\____\\____/\____\  \____\/_/   \____\
+
+
+       "
+    puts "version 1.0".red
+    EagleEye.crawl
+    # social scrapper ready
+    puts "Eagleeye Saudi Alexa Interaction process done".green
