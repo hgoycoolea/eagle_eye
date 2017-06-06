@@ -33,9 +33,9 @@ def crawl
       # puts starting
       puts "starting processing .... please wait .."
 
-      puts "Usage: urlinfo.rb AKIAITB22UNBAT65NKZA bc1rLqAKgyshJ31Rk8IgydB1gc6PoZGk+4YXtO2H site"
+      puts "Usage: urlinfo.rb AKIAITB22UNBAT65NKZA  site"
       access_key_id ="AKIAITB22UNBAT65NKZA"
-      secret_access_key = "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"
+      secret_access_key = ""
       site = "google.com.sa"
 
       action = "UrlInfo"
